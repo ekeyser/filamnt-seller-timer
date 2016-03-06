@@ -1,7 +1,6 @@
 import time
 import requests
 
-
 starttime = time.time()
 interval = 20.0
 sellerid = "00000001"
